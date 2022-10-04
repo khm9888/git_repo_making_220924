@@ -4,8 +4,8 @@ to practice making github repository
 #### git command big 5
 
 1. git clone 
-2. git add
-3. git commit
+2. git add .
+3. git commit -m "message"
 4. git push
 5. git pull
 
